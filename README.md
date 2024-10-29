@@ -1,7 +1,11 @@
 # Python Data Structures and Notebooks
+## Module 2 (44-620)
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+- Cloned project onto personal workspace
+- Completed tasks in Python environment
+- Convereted Jupyter to an HTML copy (!jupyter nbconvert --to html s567936.ipynb)
+- Saved project locally
+- Pushed project back to GitHub
 
 ## Rubric
 
